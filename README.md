@@ -1,4 +1,4 @@
-### Hola, bienvenid@ a mi GitHub! 👋
+## Hola, bienvenid@ a mi GitHub! 👋
 
 - 🔭 Actualmente estoy trabajando en meros proyectos de prueba y aprendizaje.
 - 🌱 Actualmente estoy aprendiendo sobre diseño y desarrollo de aplicaciones web (DAW). 
