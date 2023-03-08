@@ -1,26 +1,19 @@
 ## Hola, bienvenid@ a mi GitHub! 👋
 
 - 🔭 Actualmente estoy trabajando en meros proyectos de prueba y aprendizaje.
-- 🌱 Actualmente estoy aprendiendo sobre diseño y desarrollo de aplicaciones web (DAW). 
-- 👯 Busco colaborar en...
-- 🤔 Busco ayuda con...
-- 💬 Pregúntame sobre...
-- 📫 Cómo contactarme: ...
-- 😄 Pronombres: él
-- ⚡ Dato curioso: ...
-
 
 ![Visitas al perfil](https://gpvc.arturio.dev/PabloMuYAnYO)  <img src="https://img.shields.io/github/followers/PabloMuYAnYO?label=Follow" style=" float:left, margin-right:10px" />
 
 [![Uso de lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloMuYAnYO&langs_count=8)](https://github.com/PabloMuYAnYO/github-readme-stats)
 
-### Preferencia de tecnología y herramientas
+### He trabajado con:
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=000000">
+<img src="https://img.shields.io/badge/-Python-FFD449?style=flat&logo=Python&logoColor=black">
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
