@@ -2,8 +2,6 @@
 
 - 🔭 Actualmente estoy trabajando en meros proyectos de prueba y aprendizaje.
 
-![Visitas al perfil](https://gpvc.arturio.dev/PabloMuYAnYO)  <img src="https://img.shields.io/github/followers/PabloMuYAnYO?label=Follow" style=" float:left, margin-right:10px" />
-
 [![Uso de lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloMuYAnYO&langs_count=8)](https://github.com/PabloMuYAnYO/github-readme-stats)
 
 ### He trabajado con:
