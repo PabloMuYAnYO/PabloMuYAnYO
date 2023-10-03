@@ -25,3 +25,5 @@
 
 
 [![Estadísticas de GitHub de PabloMuYAnYO](https://github-readme-stats.vercel.app/api?username=PabloMuYAnYO)](https://github.com/PabloMuYAnYO/github-readme-stats)
+
+ Te invito a explorar mi perfil de GitHub principal [**aquí**](https://github.com/PikaCode5900), gracias!
